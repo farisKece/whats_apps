@@ -1,0 +1,22 @@
+{
+    "connections": [
+        "maulana@gmail.com",
+        "sintiya@gmail.com"
+    ],
+    "chat": [
+        {
+            "pengirim": "maulana@gmail.com",
+            "penerima": "sintiya@gmail.com",
+            "pesan": "Halo sin, ayo ngopi",
+            "time": "2023-11-19T08:37:40.188424",
+            "isRead": true
+        },
+        {
+            "pengirim": "sintiya@gmail.com",
+            "penerima": "maulana@gmail.com",
+            "pesan": "Maaf aku lagi ngerjain tugas",
+            "time": "2023-11-19T08:37:40.188424",
+            "isRead": false
+        }
+    ]
+}

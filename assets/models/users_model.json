@@ -1,0 +1,25 @@
+{
+    "uid": "ENh81PanVsRO337DaJnIT0cfDgo2",
+    "name": "Faris Yusuf",
+    "keyName": "X",
+    "email": "faris@gmail.com",
+    "creationTime": "2023-11-27T11:18:22.079",
+    "lastSignInTime": "2023-11-27T11:18:22.079",
+    "photoUrl": "https://lh3.googleusercontent.com/a/ACg8ocL6fYpqAF7kBNJyojfQ9O9NZUe-1C1m5zpnKPQvEJpN5kY=s96-c",
+    "status": "jomblo",
+    "updateTime": "2023-11-19T08:37:40.188424",
+    "chats": [
+        {
+            "connection": "maulana@gmail.com",
+            "chat_id": "ENh81PanVsRO337DaJnIT0cfDgo2",
+            "lastTime": "2023-11-19T08:37:40.188424",
+            "total_unread": 0
+        },
+        {
+            "connection": "sintiya@gmail.com",
+            "chat_id": "ENh81PanVsRO337DaJnIT0cfDgo2",
+            "lastTime": "2023-11-19T08:37:40.188424",
+            "total_unread": 0
+        }
+    ]
+}

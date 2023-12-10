@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "85382126247",
+    "project_id": "whatsapps-farizz",
+    "storage_bucket": "whatsapps-farizz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85382126247:android:c305057e919d9ebfea5982",
+        "android_client_info": {
+          "package_name": "com.fariz.whats_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85382126247-fcve3fq2aihur0pqc8lojhpqlbsof6mj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fariz.whats_apps",
+            "certificate_hash": "01307ae485d443591b27649d9810bf4adc9de30d"
+          }
+        },
+        {
+          "client_id": "85382126247-799c6thf9umf95t5cb952d93qd9s0vb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_7nVN4J2kL0i2H0aH54p_gE_q1iKYeAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85382126247-799c6thf9umf95t5cb952d93qd9s0vb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
